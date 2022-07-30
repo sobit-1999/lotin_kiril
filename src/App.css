@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.container{
+  margin: 50px 2% ;
+}
+.delete{
+  position: fixed;
+  background-color: brown;
+  /* bottom: 0; */
+  z-index: 1;
+  border-radius: 10px 0 100% 0;
+
+}
+.button{
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  background-color: green;
+  margin: 10px;
+}
+
+.lotin-kiril-font{
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  color: green;
+}
